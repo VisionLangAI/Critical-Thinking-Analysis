@@ -5,7 +5,7 @@ This repository contains a synthetic dataset of **10,000** entries designed to m
 
 ## Dataset File
 - **Filename:** `critical_thinking_analysis.csv`
-- **Format:** Comma-Separated Values (CSV)
+- **Format:** .CSV
 - **Size:** 10,000 rows × 28 columns
 
 ## Attributes / Columns
@@ -45,7 +45,7 @@ This repository contains a synthetic dataset of **10,000** entries designed to m
 1. **Loading Data (Python / pandas)**:
    ```python
    import pandas as pd
-   df = pd.read_csv('expanded_computational_thinking_dataset_10000.csv')
+   df = pd.read_csv("computational_thinking.csv')
    ```
 
 2. **Exploratory Data Analysis**:
